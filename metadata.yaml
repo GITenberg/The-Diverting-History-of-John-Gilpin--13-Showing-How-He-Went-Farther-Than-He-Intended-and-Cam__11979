@@ -1,0 +1,41 @@
+_repo: The-Diverting-History-of-John-Gilpin--13-Showing-How-He-Went-Farther-Than-He-Intended-and-Cam__11979
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Caldecott, Randolph
+    alias: Caldecott, R. (Randolph)
+    birthdate: 1846
+    deathdate: 1886
+    gutenberg_agent_id: '3611'
+    url: http://www.gutenberg.org/2009/agents/3611
+    wikipedia: http://en.wikipedia.org/wiki/Randolph_Caldecott
+creator:
+  author:
+    agent_name: Cowper, William
+    birthdate: 1731
+    deathdate: 1800
+    gutenberg_agent_id: '1270'
+    url: http://www.gutenberg.org/2009/agents/1270
+    wikipedia: http://en.wikipedia.org/wiki/William_Cowper
+description: ''
+gutenberg_bookshelf: Children's Picture Books
+gutenberg_issued: '2004-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '11979'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Humorous poetry, English'
+- !lcsh 'Marriage -- Juvenile poetry'
+- !lcsh 'Horses -- Juvenile poetry'
+- !lcsh 'Wit and humor, Juvenile'
+- !lcsh 'Horse racing -- Juvenile poetry'
+- !lcc 'PZ'
+- !lcsh 'Horsemanship -- Juvenile poetry'
+- GITenberg
+title: "The Diverting History of John Gilpin\r\nShowing How He Went Farther Than He\
+  \ Intended, and Came Safe Home Again"
+url: http://www.gutenberg.org/ebooks/11979
